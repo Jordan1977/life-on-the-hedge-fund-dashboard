@@ -1,10 +1,19 @@
+# Life on the Hedge Fund — repo files
+
+Copie chaque fichier bloc par bloc dans GitHub.
+
+---
+
+## File: `build_dashboard.py`
+
+```python
 #!/usr/bin/env python3
 from __future__ import annotations
 
 import json
 import math
 import warnings
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -723,7 +732,7 @@ def generate_html(holdings: pd.DataFrame, metrics: dict[str, Any], pos: pd.DataF
     ])
     intel_html = "".join([f"<div class='intel'><div class='intel-title'>{esc(t)}</div><p>{esc(b)}</p></div>" for t, b in intelligence])
 
-    return f"""<!DOCTYPE html>
+    return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8"/>
@@ -857,7 +866,7 @@ Plotly.newPlot('stress', charts.stress.data, charts.stress.layout, {{displayMode
 Plotly.newPlot('forecast', charts.forecast.data, charts.forecast.layout, {{displayModeBar:false,responsive:true}});
 </script>
 </body>
-</html>"""
+</html>'''
 
 
 def main() -> None:
