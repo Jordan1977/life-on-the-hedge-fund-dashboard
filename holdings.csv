@@ -1,15 +1,14 @@
-Portfolio Positions
-
-- NVDA
-- GOOGL
-- PLTR
-- APP
-- SOUN
-- RTX
-- RKLB
-- GEV
-- COIN
-- MARA
-- HOOD
-- UBER
-- RDDT
+ticker,name,quantity,buy_price,sector,theme,risk_bucket,inception_date
+NVDA,Nvidia,52,110.54,Technology,AI,High,2026-04-20 09:00:06
+GOOGL,Alphabet,17,168.00,Technology,Search,High,2026-04-20 09:00:06
+PLTR,Palantir,68,80.00,Technology,AI,Medium,2026-04-20 09:00:06
+APP,AppLovin,17,300.00,Technology,Content,Medium,2026-04-20 09:00:06
+SOUN,SoundHound,295,9.55,Technology,AI,Medium,2026-04-20 09:00:06
+RTX,RTX,26,126.57,Defense,Aerospace,High,2026-04-20 09:00:06
+RKLB,Rocket Lab,225,20.00,Aerospace,Space,Medium,2026-04-20 09:00:06
+GEV,GE Vernova,17,270.00,Energy,Renewable,High,2026-04-20 09:00:06
+COIN,Coinbase,10,250.00,Finance,Crypto,High,2026-04-20 09:00:06
+MARA,MARA,150,15.09,Finance,Crypto,Medium,2026-04-20 09:00:06
+HOOD,Robinhood,104,40.00,Finance,Investment,Medium,2026-04-20 09:00:06
+UBER,Uber,30,74.96,Tech,Transport,Medium,2026-04-20 09:00:06
+RDDT,Reddit,39,120.00,Tech,Social,Medium,2026-04-20 09:00:06
