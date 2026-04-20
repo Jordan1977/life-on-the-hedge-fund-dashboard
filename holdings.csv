@@ -1,14 +1,14 @@
 ticker,name,quantity,buy_price,sector,theme,risk_bucket,inception_date
-NVDA,Nvidia,52,110.54,Technology,AI,High,2026-04-20 09:00:06
-GOOGL,Alphabet,17,168.00,Technology,Search,High,2026-04-20 09:00:06
-PLTR,Palantir,68,80.00,Technology,AI,Medium,2026-04-20 09:00:06
-APP,AppLovin,17,300.00,Technology,Content,Medium,2026-04-20 09:00:06
-SOUN,SoundHound,295,9.55,Technology,AI,Medium,2026-04-20 09:00:06
-RTX,RTX,26,126.57,Defense,Aerospace,High,2026-04-20 09:00:06
-RKLB,Rocket Lab,225,20.00,Aerospace,Space,Medium,2026-04-20 09:00:06
-GEV,GE Vernova,17,270.00,Energy,Renewable,High,2026-04-20 09:00:06
-COIN,Coinbase,10,250.00,Finance,Crypto,High,2026-04-20 09:00:06
-MARA,MARA,150,15.09,Finance,Crypto,Medium,2026-04-20 09:00:06
-HOOD,Robinhood,104,40.00,Finance,Investment,Medium,2026-04-20 09:00:06
-UBER,Uber,30,74.96,Tech,Transport,Medium,2026-04-20 09:00:06
-RDDT,Reddit,39,120.00,Tech,Social,Medium,2026-04-20 09:00:06
+NVDA,Nvidia Corporation,52,110.54,AI / Semiconductors,GPU / AI Infrastructure,GROWTH,2025-03-06
+GOOGL,Alphabet Inc.,17,168.00,AI / Tech Platform,Search / Gemini AI,CORE,2025-03-06
+PLTR,Palantir Technologies,68,80.00,AI / Defence Tech,Govt & Commercial AI Platform,GROWTH,2025-03-06
+APP,AppLovin Corporation,17,300.00,AI / AdTech,AI Mobile Advertising,GROWTH,2025-03-06
+SOUN,SoundHound AI Inc.,295,9.55,AI / Voice,Voice AI / Speculative,SPECULATIVE,2025-03-06
+RTX,RTX Corporation,26,126.57,Defense / Aerospace,Missiles / Avionics,CORE,2025-03-06
+RKLB,Rocket Lab USA,225,20.00,Space Economy,Small Launch Vehicles,SPECULATIVE,2025-03-06
+GEV,GE Vernova Inc.,17,270.00,Energy Transition,Power Grid / Clean Energy,GROWTH,2025-03-06
+COIN,Coinbase Global Inc.,10,250.00,Crypto Infrastructure,Crypto Exchange,SPECULATIVE,2025-03-06
+MARA,MARA Holdings Inc.,150,15.09,Bitcoin Mining,BTC Proxy / High Beta,SPECULATIVE,2025-03-06
+HOOD,Robinhood Markets Inc.,104,40.00,Fintech / Retail,Retail Brokerage + Crypto,SPECULATIVE,2025-03-06
+UBER,Uber Technologies Inc.,30,74.96,Mobility / Platform,Ride-Share / Delivery,GROWTH,2025-03-06
+RDDT,Reddit Inc.,39,120.00,Social / AI Data,Community Data / AI Training,SPECULATIVE,2025-03-06
