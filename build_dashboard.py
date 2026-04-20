@@ -1,12 +1,3 @@
-# Life on the Hedge Fund — repo files
-
-Copie chaque fichier bloc par bloc dans GitHub.
-
----
-
-## File: `build_dashboard.py`
-
-```python
 #!/usr/bin/env python3
 from __future__ import annotations
 
